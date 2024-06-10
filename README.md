@@ -1,1 +1,1 @@
-# If-va-else-ni-o-rganamiz
+# If and else 
